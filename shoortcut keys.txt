@@ -1,0 +1,16 @@
+for windows
+
+Windows Key + D: Instantly show or hide your desktop by minimizing all open windows.
+Alt + Tab: Swiftly switch between your open applications and windows.
+Windows Key + E: Quickly open the File Explorer to access your files and folders.
+Windows Key + Shift + S: Open the Snipping Tool to capture a screenshot of a specific area or your whole screen.
+Ctrl + Shift + Esc: Open the Task Manager directly to see running apps and performance.
+
+
+for chrome 
+
+Ctrl + T: Open a new browser tab instantly.
+Ctrl + Shift + T: Reopen the last tab you closed—it even works if you accidentally closed multiple tabs.
+Ctrl + L: Jump directly to the address bar so you can type a new URL or search term immediately.
+Ctrl + Tab: Cycle through your open tabs from left to right.
+Ctrl + Shift + N: Open a new Incognito window for private browsing. 
