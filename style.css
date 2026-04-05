@@ -1,0 +1,26 @@
+/* 1. Amazon Prime Video Dark Background */
+body {
+    background: radial-gradient(circle at center, #1a242f 0%, #0f171e 100%);
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #ffffff;
+}
+
+/* 2. The Prime Style Card */
+.card {
+    background-color: #1a242f; /* Prime 'Squid Ink' color */
+    width: 350px;
+    padding: 40px;
+    border-radius: 8px; /* Amazon uses sharper, cleaner corners */
+    text-align: left; /* Prime UI is usually left-aligned */
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+    border-bottom: 4px solid #00a8e1; /* Prime Blue Accent */
+}
+
+/* 3. The Name (Requirement: ID #) */
+#profile-name {
+    color: #…
